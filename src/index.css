@@ -5,8 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
+  background-image: url("https://t4.ftcdn.net/jpg/05/07/96/47/360_F_507964753_OMBonrE9fhfv94KaHuk97WumAlqhiHlD.jpg");
+  background-size: cover;
 
+  }
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
